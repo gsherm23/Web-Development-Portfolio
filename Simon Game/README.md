@@ -1,4 +1,4 @@
-<h1><a href="https://gsherm23.github.io/Simon-Game-Project/">Simon Game</a></h1>
+<h1><a href="https://gsherm23.github.io/Web-Development-Portfolio/Simon%20Game/">Simon Game Project</a></h1>
 <li> I created this project in my Udemy Web Development Course </li>
 <li> The classic Simon Game </li>
 <li> Showcasing the use of sounds & functions with JavaScript</li>

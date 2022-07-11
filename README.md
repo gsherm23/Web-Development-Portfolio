@@ -21,6 +21,5 @@
 <ul> APIs </ul>
 <ul> React.js </ul>
 <li> Databases </li>
-<ul> SQL </ul>
 <ul> Mongoose </ul>
 <ul> MongoDB </ul>

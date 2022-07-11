@@ -6,11 +6,11 @@
 <h3><ins>Technical Skills Learned & Utilized</ins></h3>
 <li> Frontend Web Development </li>
 <ul> CSS 3 architecture: component-based design, BEM, writing reusable code, etc</ul>
-<li> Responsive design including: media queries, mobile-first vs desktop-first, em vs rem units, flexbox & grid layouts, & more</li>
+<ul> Responsive design including: media queries, mobile-first vs desktop-first, em vs rem units, flexbox & grid layouts, & more</ul>
 <ul> Bootstrap 4 </ul>
 <ul> Javascript ES6 fundamentals: variables, if/else, operators, boolean logic, functions, arrays, objects, loops, strings, etc </ul>
-<li> Modern ES6+: arrow functions, destructuring, spread operator, optional chaining (ES2020), etc</li>
-<li> Asynchronous JavaScript: Event loop, promises, async/await, AJAX calls and APIs</li>
+<ul> Modern ES6+: arrow functions, destructuring, spread operator, optional chaining (ES2020), etc</ul>
+<ul> Asynchronous JavaScript: Event loop, promises, async/await, AJAX calls and APIs</ul>
 <ul> jQuery </ul>
 <ul> DOM Manipulation</ul>
 <ul> HTML 5 </ul>

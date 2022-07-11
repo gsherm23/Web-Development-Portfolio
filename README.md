@@ -1,6 +1,6 @@
 <h1> Web Development Porfolio</h1>
 
-<span> This repository contains all the projects I created through my Udemy: Web Development Course</span>
+<span> This repository contains all the projects I created through my Udemy: Web Development, CSS, & Javascript Courses</span>
 
 
 <h3><ins>Technical Skills Learned & Utilized</ins></h3>
